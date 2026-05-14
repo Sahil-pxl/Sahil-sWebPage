@@ -4,9 +4,9 @@ import { ProjectCard } from "./ProjectCard";
 const projects = [
   {
     id: 1,
-    title: "SaaS Landing Page",
+    title: "AI-powered architectural visualization SaaS App",
     description: "A beautiful landing page app using React and Tailwind.",
-    image: "/Projects/project1.png",
+    image: "/Projects/Roomify.png",
     tags: ["React", "TailwindCSS", "Supabase"],
     demoUrl: "#",
     githubUrl: "#",
